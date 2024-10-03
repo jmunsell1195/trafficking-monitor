@@ -16,6 +16,7 @@ Ensure you have the following installed before running the project:
 - [DeepFace](https://github.com/serengil/deepface)
 - [OpenAI GPT-4](https://openai.com/)
 - [MongoDB (PyMongo)](https://pymongo.readthedocs.io/en/stable/)
+- [MongoDBServer](https://www.mongodb.com/try/download/community)
 
 
 ## steps
